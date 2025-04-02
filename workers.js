@@ -10,12 +10,12 @@ const API_SITES = {
     name: '非凡影视',
     detail: 'http://ffzy5.tv',
   },
-  subozy:{
+  subozy: {
     api: 'https://subocaiji.com/api.php/provide/vod/at/json',
     name: '速播资源',
     detail: 'https://subocaiji.com/api.php/provide/vod',
   },
-  wujinzy:{
+  wujinzy: {
     api: 'https://api.wujinapi.me/api.php/provide/vod/?ac=list',
     name: '无尽资源',
     detail: 'https://api.wujinapi.me/api.php/provide/vod/?ac=detail',
